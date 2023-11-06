@@ -31,17 +31,6 @@
         <option value="$PROJECT_DIR$/spring_25_case_transfer_log/pom.xml" />
       </list>
     </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/spring_19_aop_pointcut/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_20_aop_advice_type/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_21_case_interface_run_speed/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_22_aop_advice_data/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_23_case_handle_password/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_24_case_transfer/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_25_case_transfer_log/pom.xml" />
-      </set>
-    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
